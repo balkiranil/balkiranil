@@ -5,16 +5,16 @@ Looking for lifetime opportunities and experiences to improve myself as an Astro
 ## 👨‍🎓Undergraduate Studies👨‍🎓
 
 <p>⚡Attitude determination and control⚡</p>
--Simulation of the low earth orbit satellite's attitude dynamics
-<p>-Quaternion attitude representation for small satellite transformed from Euler angles
-<p>-Modified Rodrigues parameters representation for small satellite using quaternions
-<p>-Investigation of the sun direction vector in ECI frame
--Modeling of the sun sensor measurement in satellite body frame
--Earth's magnetic field vector through the orbit of the satellite using the dipole model
--Simulation of magnetometer measurements</p>
--Passive magnetic stabilization</p>
--Orbit lifetime analyze</p>
--6U CubeSat 3-axes active control with reaction wheels and magnetorquer</p>
+-Simulation of the low earth orbit satellite's attitude dynamics</p>
+<p>-Quaternion attitude representation for small satellite transformed from Euler angles</p>
+<p>-Modified Rodrigues parameters representation for small satellite using quaternions</p>
+<p>-Investigation of the sun direction vector in ECI frame</p>
+<p>-Modeling of the sun sensor measurement in satellite body frame</p>
+<p>-Earth's magnetic field vector through the orbit of the satellite using the dipole model</p>
+<p>-Simulation of magnetometer measurements</p>
+<p>-Passive magnetic stabilization</p>
+<p>-Orbit lifetime analyze</p>
+<p>-6U CubeSat 3-axes active control with reaction wheels and magnetorquer</p>
 
 <p>⚡Compressible Aerodynamics⚡</p>
 <p>-Determine the direction of the slip line and slip angle by using MATLAB code for the nozzle</p>
