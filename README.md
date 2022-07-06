@@ -4,7 +4,7 @@ Looking for lifetime opportunities and experiences to improve myself as an Astro
 
 ##### 👨‍🎓Undergraduate Studies👨‍🎓
 
-⚡Attitude determination and control⚡
+<p>⚡Attitude determination and control⚡</p>
 -Simulation of the low earth orbit satellite's attitude dynamics
 -Quaternion attitude representation for small satellite transformed from Euler angles
 -Modified Rodrigues parameters representation for small satellite using quaternions
